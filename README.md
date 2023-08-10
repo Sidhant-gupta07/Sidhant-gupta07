@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidhant-gupta07" alt="sidhant-gupta07" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/sidhantji_01" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sidhantji_01?logo=twitter&style=for-the-badge" alt="https://twitter.com/sidhantji_01" /></a> </p>
-
 - 🔭 I’m currently working on **Spotify Clone and My Market**
 
 - 🌱 I’m currently learning **HTML,CSS and JavaScript.**
@@ -17,7 +15,7 @@
 
 - 👯 Know About my Experience [https://drive.google.com/drive/u/0/folders/1U2RpFXcUMRDVI4JQaQ29pJAokC57PHR9](https://drive.google.com/drive/u/0/folders/1U2RpFXcUMRDVI4JQaQ29pJAokC57PHR9)
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I Love Programming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
