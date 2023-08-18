@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sidhant Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate technical developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhant-gupta07&label=Profile%20views&color=0e75b6&style=flat" alt="sidhant-gupta07" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Spotify Clone and My Market**
 
-- 🌱 I’m currently learning **HTML,CSS and JavaScript.**
+- 🌱 I’m currently learning **JavaScript and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sidhant-gupta07](https://github.com/Sidhant-gupta07)
 
