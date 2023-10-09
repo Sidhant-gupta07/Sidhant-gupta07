@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sidhant Gupta</h1>
-<h3 align="center">A passionate Front End developer from India</h3>
+<h3 align="center">Following my passion into Wev Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhant-gupta07&label=Profile%20views&color=0e75b6&style=flat" alt="sidhant-gupta07" /> </p>
 
