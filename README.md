@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Mongo and SQL**
+- 🌱 I’m currently learning **php and react.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sidhant-gupta07](https://github.com/Sidhant-gupta07)
 
