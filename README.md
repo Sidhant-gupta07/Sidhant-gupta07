@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sidhant-gupta07](https://github.com/Sidhant-gupta07)
 
-- 📫 How to reach me **sidhantguptabdk123@gmail.com**
+- 📫 How to reach me **sidhantgupta5159@gmail.com**
 
 - 👯 Know About my Experience [https://drive.google.com/drive/u/0/folders/1U2RpFXcUMRDVI4JQaQ29pJAokC57PHR9](https://drive.google.com/drive/u/0/folders/1U2RpFXcUMRDVI4JQaQ29pJAokC57PHR9)
 
