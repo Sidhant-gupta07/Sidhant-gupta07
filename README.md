@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhant-gupta07&label=Profile%20views&color=0e75b6&style=flat" alt="sidhant-gupta07" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **My Portfolio and Netflix Clone**
 
-- 🌱 I’m currently learning **php and react.js**
+- 🌱 I’m currently learning **MongoDB and ExpressJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sidhant-gupta07](https://github.com/Sidhant-gupta07)
 
