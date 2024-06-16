@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Database and BaaS**
 
-- 🤝 I’m looking for a job role **Fronted Developer, React Developer**
+- 🤝 I’m looking for a job role **Fronted Developer, React Developer, Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sidhant-gupta07](https://github.com/Sidhant-gupta07)
 
