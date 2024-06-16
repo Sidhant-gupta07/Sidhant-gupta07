@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sidhantgupta5159@gmail.com**
 
-- 👨‍💻 Resume [ [https://drive.google.com/drive/u/0/folders/1U2RpFXcUMRDVI4JQaQ29pJAokC57PHR9](https://drive.google.com/drive/u/0/folders/1U2RpFXcUMRDVI4JQaQ29pJAokC57PHR9)](https://drive.google.com/drive/u/1/folders/1pAkqwswsx48oJFa8GwIwiMWSfxflc11q)
+- 👨‍💻 Resume https://drive.google.com/drive/u/1/folders/1pAkqwswsx48oJFa8GwIwiMWSfxflc11q
 
 - ⚡ Fun fact **I love programming**
 
