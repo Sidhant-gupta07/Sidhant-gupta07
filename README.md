@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/sidhantji_011" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sidhantji_011?logo=twitter&style=for-the-badge" alt="https://twitter.com/sidhantji_011" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on ** Buy-Buzzar & Netflix Clone**
 
 - 🌱 I’m currently learning **Database and BaaS**
 
